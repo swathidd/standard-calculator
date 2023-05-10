@@ -166,10 +166,12 @@ for (item of buttons) {
 ## OUTPUT:
 
 ### output:
-![output](./static/out/ex081.png)
-### html validator:
+![ex081](https://github.com/swathidd/standard-calculator/assets/121300272/de61582d-766f-4748-b5ec-140b00da9da8)
 
-![output](./static/out/ex082.png)
+### html validator:
+![ex082](https://github.com/swathidd/standard-calculator/assets/121300272/8542cb57-16f5-47a5-9261-f9cde4880aeb)
+
+
 ## Result:
 
 Thus we designed a web application for a standard calculator.
